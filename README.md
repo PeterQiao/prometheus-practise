@@ -5,3 +5,6 @@ This is a prometheus practise repo, in this repo, I would like to list the tasks
 
 ## Tasks
 #### Setup
+#### Basic metric collection
+#### PromQL 
+
